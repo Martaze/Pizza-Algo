@@ -1,3 +1,5 @@
 Step 1 : Choose the pizza place
 Step 2 : Decide what type of pizza to order
-Step 3 : Order and enjoy!
+Step 3 : Decide if everybody wants the same type of pizza
+Step 4 : Call the pizza place so that we can relay the order to everybody
+Step 5 : Order and enjoy!
